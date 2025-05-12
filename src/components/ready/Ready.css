@@ -1,0 +1,35 @@
+#ready{
+    background: gray;
+    padding: 80px 0;
+}
+
+.ready{
+
+}
+
+.ready__title{
+    font-size: 36px;
+    margin-bottom: 40px;
+    text-align: center;
+    color: white;
+}
+
+.ready__btn{
+    text-align: center;
+}
+
+.ready__btn button{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    background: #f69a37;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+}
+
+.ready__btn button:hover{
+    background: #fff;
+    color: #f69a37;
+}

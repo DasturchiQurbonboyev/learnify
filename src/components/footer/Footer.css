@@ -1,0 +1,48 @@
+#footer{
+    background: #333;
+    padding: 80px 0;
+}
+
+.footer{
+}
+
+.footer__lists{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+}
+
+.footer__item{
+
+}
+
+.footer__link{
+    color: #fff;
+    transition: all 0.3s ease-in-out;
+}
+
+.footer__link:hover{
+    color: #ffa726;
+}
+
+
+.footer__socials{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.footer__icons__link{
+    display: block;
+    width: 20px;
+    height: 20px;
+}
+
+.footer__icons__link img{
+    width: 100%;
+}
