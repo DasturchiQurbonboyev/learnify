@@ -6,10 +6,10 @@ const About = () => {
     <>
       <section id="about">
         <div className="container">
-          <h2 className="about__title">About Learnify.ai</h2>
+          <h2 className="about__title">Learnify haqqında</h2>
           <div>
-            <p>Learnify.ai is dedicated to empowering lifelong learners with the tools and resources they need to track, verify, and enhance their online learning journeys. Our platform leverages advanced AI technology to provide personalized learning experiences, comprehensive tracking, and verified assessments, ensuring that learners get the most out of their online education.</p><br />
-            <p>Founded in 2023, our mission is to make self-learning more effective and engaging for professionals across various industries. We believe that learning should be a continuous journey, and we strive to support learners in achieving their goals through innovative solutions and a supportive community.</p>
+            <p>Learnify úzliksiz bilim alıwshılardı olardıń onlayn oqıw jolların baqlaw, tekseriw hám jetilistiriw ushın zárúr bolǵan qural hám derekkózler menen támiyinlewge baǵıshlanǵan. Platformamız joqarı dárejeli jasalma intellekt texnologiyasın qollanıp, jeke oqıw tájiriybesin, tolıq baqlaw hám tastıyıqlanǵan bahalawdı usınadı, bul arqalı oqıwshılardıń onlayn bilim alıwdan eń joqarı nátiyje alıwın támiyinleydi.</p><br />
+            <p>2023-jılı dúzilgen kompaniyamızdıń maqseti hár túrli taraw qánigeleri ushın óz betinshe bilim alıwdı nátiyjeli hám qızıqlı etiw bolıp tabıladı. Bizniń pikirimizshe, bilim alıw úzliksiz dawam etetuǵın process bolıwı kerek, sonlıqtan biz oqıwshılardı innovaciyalıq sheshimler hám qollap-quwatlawshı jámáát arqalı maqsetlerine jetiwinde járdem beriwge umtılamız.</p>
           </div>
         </div>
       </section>

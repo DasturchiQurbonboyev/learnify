@@ -7,9 +7,9 @@ const Ready = () => {
         <section id='ready'>
             <div className="container">
                 <div className="ready">
-                    <h2 className='ready__title'>Ready to Transform Your Learning Journey?</h2>
+                    <h2 className='ready__title'>Bilimleniw saparıńızdı jańa basqıshqa kóteriw ushın tayarsız ba?</h2>
                     <div className="ready__btn">
-                        <button>Get Started Now</button>
+                        <button>Házir baslaw</button>
                     </div>
                 </div>
             </div>

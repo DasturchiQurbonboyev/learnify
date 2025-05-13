@@ -12,17 +12,15 @@ const Footer = () => {
         <div className="container">
           <div className="footer">
             <ul className="footer__lists">
-              <li className="footer__item"><a href="#" className="footer__link">Home</a></li>
-              <li className="footer__item"><a href="#" className="footer__link">Features</a></li>
-              <li className="footer__item"><a href="#" className="footer__link">How it works</a></li>
-              <li className="footer__item"><a href="#" className="footer__link">about</a></li>
-              <li className="footer__item"><a href="#" className="footer__link">privacy&policy</a></li>
+              <li className="footer__item"><a href="#" className="footer__link">Bas bet</a></li>
+              <li className="footer__item"><a href="feature" className="footer__link">Ózgeshelikler</a></li>
+              <li className="footer__item"><a href="works" className="footer__link">How it works</a></li>
+              <li className="footer__item"><a href="about" className="footer__link">Bizler haqqında</a></li>
             </ul>
             <div className="footer__socials">
-              <a className='footer__icons__link' href="#"><img src={facebook} alt="" /></a>
-              <a className='footer__icons__link' href="#"><img src={xcom} alt="" /></a>
-              <a className='footer__icons__link' href="#"><img src={linkedin} alt="" /></a>
-              <a className='footer__icons__link' href="#"><img src={instagram} alt="" /></a>
+              <a className='footer__icons__link' href="https://www.facebook.com/share/19Yx78MipV/"><img src={facebook} alt="" /></a>
+              <a className='footer__icons__link' href="https://www.linkedin.com/company/learnifyofficial/"><img src={linkedin} alt="" /></a>
+              <a className='footer__icons__link' href="https://www.instagram.com/learnify_academy?igsh=MXg2dWd1YmlvOThpbA=="><img src={instagram} alt="" /></a>
             </div>
           </div>
         </div>

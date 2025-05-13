@@ -7,23 +7,23 @@ const Works = () => {
         <section id='works'>
             <div className="container">
                 <div className="wors">
-                    <h1 className="works__title">How It Works</h1>
+                    <h1 className="works__title">Ol qalay isleydi</h1>
                     <div className="works__cards">
                         <div className="works__item">
-                            <h3 className="works__item_title">1. Install the Extension</h3>
-                            <p className="works__item__description">Add Learnify.ai to your Chrome browser with a single click.</p>
+                            <h3 className="works__item_title">1. Úlkeytpeni ornatıw</h3>
+                            <p className="works__item__description">Chrome brauzerine bir ret basıw arqalı Learnify qosıń</p>
                         </div>
                         <div className="works__item">
-                            <h3 className="works__item_title">2. Start Learning</h3>
-                            <p className="works__item__description">Add Learnify.ai to your Chrome browser with a single click.</p>
+                            <h3 className="works__item_title">2. Úyreniwdi baslań</h3>
+                            <p className="works__item__description">Chrome brauzerine bir ret basıw arqalı Learnify qosıń</p>
                         </div>
                         <div className="works__item">
-                            <h3 className="works__item_title">3. Install the Extension</h3>
-                            <p className="works__item__description">Add Learnify.ai to your Chrome browser with a single click.</p>
+                            <h3 className="works__item_title">3. Úlkeytpeni ornatıw</h3>
+                            <p className="works__item__description">Chrome brauzerine bir ret basıw arqalı Learnify qosıń</p>
                         </div>
                         <div className="works__item">
-                            <h3 className="works__item_title">4. Install the Extension</h3>
-                            <p className="works__item__description">Add Learnify.ai to your Chrome browser with a single click.</p>
+                            <h3 className="works__item_title">4. Úlkeytpeni ornatıw</h3>
+                            <p className="works__item__description">Chrome brauzerine bir ret basıw arqalı Learnify qosıń</p>
                         </div>
                     </div>
                 </div>

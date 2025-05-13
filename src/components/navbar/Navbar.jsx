@@ -14,11 +14,11 @@ const Navbar = () => {
                     </Link>
                 </div>
                 <ul className="nav__lists">
-                    <li className="nav__item"><a href="#home" className="nav__link">Home</a></li>
-                    <li className="nav__item"><a href="#feature" className="nav__link">Features</a></li>
-                    <li className="nav__item"><a href="#works" className="nav__link">How it works</a></li>
-                    <li className="nav__item"><Link to={'/about'} className="nav__link">about</Link></li>
-                    <li className="nav__item"><a href="#" className="nav__link">privacy&policy</a></li>
+                    <li className="nav__item"><a href="#home" className="nav__link">Bas bet</a></li>
+                    <li className="nav__item"><a href="#feature" className="nav__link">Ózgeshelikler</a></li>
+                    <li className="nav__item"><a href="#works" className="nav__link">Ol qalay isleydi?</a></li>
+                    <li className="nav__item"><Link to={'/about'} className="nav__link">Bizler haqqında</Link></li>
+                    {/* <li className="nav__item"><a href="#" className="nav__link">privacy&policy</a></li> */}
                 </ul>
             </nav>
         </header>   
