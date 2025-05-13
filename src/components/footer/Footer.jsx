@@ -14,7 +14,7 @@ const Footer = () => {
             <ul className="footer__lists">
               <li className="footer__item"><a href="#" className="footer__link">Bas bet</a></li>
               <li className="footer__item"><a href="feature" className="footer__link">Ózgeshelikler</a></li>
-              <li className="footer__item"><a href="works" className="footer__link">How it works</a></li>
+              <li className="footer__item"><a href="works" className="footer__link">Ol qalay isleydi?</a></li>
               <li className="footer__item"><a href="about" className="footer__link">Bizler haqqında</a></li>
             </ul>
             <div className="footer__socials">
