@@ -16,7 +16,7 @@ const Users = () => {
                         </div>
                         <div className="users__item">
                             <p className="users__item__description">Bugingi kúnde zamanaǵa say platformalardıń biri – Learnify. Onıń arqalı oqıwshı tek bilim almay, sońı túsinip, qollanıp úyrenedi.</p>
-                            <h3 className='users__item__title'>Daston</h3>
+                            <h3 className='users__item__title'>Diyora</h3>
                             <h2 className="users__item__name">D</h2>
                         </div>
                         <div className="users__item">
